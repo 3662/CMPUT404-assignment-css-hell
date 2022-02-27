@@ -1,13 +1,15 @@
+@import url('http://fonts.cdnfonts.com/css/papyrus');
+
 body {
     background-image: url("book_background.jpg");
     background-size: 100%;
     margin-left: 20%;
     margin-right: 20%;
-    font-family: "Papyrus";
+    font-family: "Papyrus", sans-serif;
 }
 
 pre {
-    font-family: "Papyrus";
+    font-family: "Papyrus", sans-serif;
 }
 
 a {

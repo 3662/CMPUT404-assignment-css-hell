@@ -1,7 +1,8 @@
-@import url('http://fonts.cdnfonts.com/css/fowviel');
+@import url('http://fonts.cdnfonts.com/css/covington-sc-rev');
 
 body {
-    font-family: "Fowviel", sans-serif;
+    font-family: "Covington SC Rev", sans-serif;
+    background-image: url(ugly_background.jpg);
 }
 
 .container {
@@ -34,7 +35,7 @@ img {
     margin-right: auto;
     margin-top: 3%;
     margin-bottom: 3%;
-    border: 3px solid black;
+    border: 3px solid rgb(197, 59, 117);
 }
 
 ul {
@@ -42,7 +43,7 @@ ul {
     margin: 0;
     padding: 0;
     top: 0;
-    margin-left: 42.5%;
+    margin-left: 42%;
     width: 100%;
     text-align: center;
     font-size: 150%;
@@ -57,10 +58,10 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     text-align: center;
-    background-color: black;
-    color: white;
+    background-color: yellowgreen;
+    color: rgb(158, 38, 38);
     text-decoration: underline;
-    text-decoration-color: white;
+    text-decoration-color: rgb(148, 38, 158);
 }
 
 li a:hover {
@@ -73,6 +74,9 @@ li a:hover {
 
 p {
     font-size: 150%;
+    color: rgb(255, 0, 0);
+    background-color: aqua;
+    border: 3px solid rgb(206, 30, 206);
 }
 
 h1 {
@@ -83,6 +87,9 @@ h1 {
     letter-spacing: 0.12em;
     word-spacing: 0.1em;
     text-indent: 0em;
+    color: brown;
+    background-color: white;
+    border: 3px solid rgb(18, 223, 69);
 }
 
 h2 {
@@ -91,6 +98,8 @@ h2 {
     font-size: 220%; 
     margin-top: 2em; 
     margin-bottom: 1em;
+    color: rgb(151, 41, 146);
+    background-color: rgb(74, 148, 74);
 }
 
 h3 {
@@ -98,4 +107,6 @@ h3 {
     padding-left: 4%;
     font-size: 180%;
     margin-top: 1em;
+    color: rgb(172, 101, 9);
+    background-color: rgb(226, 183, 43);
 }
