@@ -1,7 +1,5 @@
-@import url('http://fonts.cdnfonts.com/css/fowviel');
-
 body {
-    font-family: "Fowviel", sans-serif;
+    font-family: "New Times Roman", sans-serif;
 }
 
 .container {
@@ -42,7 +40,7 @@ ul {
     margin: 0;
     padding: 0;
     top: 0;
-    margin-left: 42.5%;
+    margin-left: 41.5%;
     width: 100%;
     text-align: center;
     font-size: 150%;
