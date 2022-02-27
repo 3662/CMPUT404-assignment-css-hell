@@ -12,6 +12,15 @@ body {
     float: left;
 }
 
+.section1 {
+    width: 70%;
+    float: left;
+}
+
+.section2 {
+    margin-top: 30%;
+}
+
 .sidebar {
     margin-top: 10%;
     margin-right: 5%;
@@ -29,10 +38,9 @@ body {
 img {
     display: block;
     border-radius: 5%;
-    width: 20%;
-    height: 20%;
-    margin-left: auto;
-    margin-right: auto;
+    width: 25%;
+    height: 25%;
+    float: right;
     margin-top: 3%;
     margin-bottom: 3%;
     border: 3px solid rgb(197, 59, 117);
