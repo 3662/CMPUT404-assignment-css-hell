@@ -1,0 +1,44 @@
+body {
+    background-image: url("book_background.webp");
+    background-size: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: Papyrus, fantasy;
+}
+
+pre {
+    font-family: Papyrus, fantasy;
+}
+
+a {
+    color: black;
+    font-size: 70%;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5 {
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+}
+
+p {
+    font-size: 100%;
+    margin-left: 5%;
+    margin-right: 5%
+}
+
+.caption, .caption2 {
+    font-size: smaller;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+    opacity: 0.6;
+    border: 3px solid black;
+}
