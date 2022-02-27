@@ -12,7 +12,7 @@ pre {
 
 a {
     color: black;
-    font-size: 70%;
+    font-size: 130%;
     font-style: italic;
     text-decoration: underline;
 }
@@ -21,16 +21,18 @@ h1, h2, h3, h4, h5 {
     text-align: center;
     font-style: normal;
     font-weight: bold;
+    letter-spacing: 0.12em;
+    word-spacing: 0.2em;
 }
 
 p {
-    font-size: 100%;
+    font-size: 130%;
     margin-left: 5%;
     margin-right: 5%
 }
 
 .caption, .caption2 {
-    font-size: smaller;
+    font-size: 130%;
     font-weight: bold;
     text-align: center;
 }
