@@ -1,13 +1,13 @@
 body {
-    background-image: url("book_background.webp");
+    background-image: url("book_background.jpg");
     background-size: 100%;
     margin-left: 20%;
     margin-right: 20%;
-    font-family: Papyrus, fantasy;
+    font-family: "Papyrus";
 }
 
 pre {
-    font-family: Papyrus, fantasy;
+    font-family: "Papyrus";
 }
 
 a {
