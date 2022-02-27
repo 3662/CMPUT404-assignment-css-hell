@@ -33,14 +33,14 @@ Changes to Gutenberg HTML Files
 =================
 ```
 1.html  
-    Added link to "custom_style.css  
+    Added link to "custom_style.css"
     Commented lines 12 and 79-81  
   
 2.html  
-    Added link to "custom_style.css  
+    Added link to "custom_style.css" 
     Commented lines 14, 15 and 69  
 
 3.html
-    Added link to "custom_style.css  
+    Added link to "custom_style.css" 
     Commented lines 10-12 and 62 
 ```
